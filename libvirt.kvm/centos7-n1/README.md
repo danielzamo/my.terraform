@@ -1,4 +1,4 @@
-# Caso 1
+# Caso 1: Despliegue de Centos 7
 
 Basado en el articulo _[How To Provision VMs on KVM with Terraform][kvm.w.terraform]_
 
